@@ -290,6 +290,16 @@ nav {
     font-size: 1.5rem;
 }
 
+.info-box p,
+.info-box-white p {
+    margin-top: 1rem;
+}
+
+.info-note {
+    margin-top: 1rem;
+    font-style: italic;
+}
+
 /* Content Section Headings */
 .section-heading {
     color: #2d5016;

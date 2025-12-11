@@ -5,7 +5,7 @@ Halfmoon Organic is a small vegetable farm in Port Matilda Pennsylvania. At this
 Our core objectives are to:
   * Grow organic vegetables in a sustainable way for the enjoyment of our family, friends, and community.
   * Minimize the harmful environmental impact of our actions, and minimize plastic pollution in particular.
-  * Achieve superior results through technology, artificial intelligence, and open-source software.
+  * Achieve superior results through sustainable and regenerative techniques, technology, artificial intelligence, and open-source software.
 
 # The plan
 

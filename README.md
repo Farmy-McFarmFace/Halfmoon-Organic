@@ -10,13 +10,13 @@ Our core objectives are to:
 # The plan
 
 Winter 2025/26
-  - [ ] Land use plan
-  - [ ] Incorporate & register as a business
-  - [ ] Select and purchase seeds & plan for spring
-  - [ ] Select and purchase:
-    - [ ] seed installation implement(s)
-    - [ ] tilling apparatus
-    - [ ] Row covers
+  - Land use plan
+  - Incorporate & register as a business
+  - Select and purchase seeds & plan for spring
+  - Select and purchase:
+    - seed installation implement(s)
+    - tilling apparatus
+    - Row covers
   - Install fencing
   - Make a plan for compost
 

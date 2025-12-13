@@ -19,6 +19,7 @@ Winter 2025/26
     - Row covers
   - Install fencing
   - Make a plan for compost
+  - Research and determine the need for Commercial General Liability and/or Product Liability Insurance
 
 Spring 26
   - Grow a usable crop on at least 1/8 of the field

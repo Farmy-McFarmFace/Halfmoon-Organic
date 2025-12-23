@@ -1,5 +1,3 @@
-# The basic idea
-
 Halfmoon Organic is a small vegetable farm in Port Matilda Pennsylvania. At this stage, it is an idea more than anything but we're working hard to change that. 
 
 Our core objectives are to:
